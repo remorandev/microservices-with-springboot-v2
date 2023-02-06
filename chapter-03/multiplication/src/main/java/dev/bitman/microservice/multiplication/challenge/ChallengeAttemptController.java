@@ -11,6 +11,7 @@ import javax.validation.Valid;
 @RequiredArgsConstructor
 @RestController
 @RequestMapping("/attempts")
+@CrossOrigin
 public class ChallengeAttemptController {
 
     private final ChallengeService challengeService;
