@@ -2,6 +2,7 @@ class ApiClient {
     static SERVER_URL = 'http://localhost:8080';
     static GET_CHALLENGE = '/challenges/random';
     static POST_RESULT = '/attempts';
+    static GET_ATTEMPS_BY_ALIAS= 'attempts?alias=';
 
     static async challenge() {
         try {
@@ -33,6 +34,10 @@ class ApiClient {
         } catch (error) {
             throw error;
         }
+    }
+
+    static async getAttempts(userAlias) {
+        return fetch(ApiClient.SERVER_URL + ApiClient.GET_ATTEMPS_BY_ALIAS + userAlias)
     }
 }
 
