@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6359feaf-06bb-490f-9e6b-3588a6e6e872" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/java/dev/bitman/microservice/multiplication/MultiplicationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/MultiplicationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/Challenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttempt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttemptController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttemptDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttemptDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeGeneratorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeGeneratorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeGeneratorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeGeneratorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/java/dev/bitman/microservice/multiplication/config/StaticResourceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/config/StaticResourceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/java/dev/bitman/microservice/multiplication/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/java/dev/bitman/microservice/multiplication/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/resources/static/assets/index-90068b6c.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/resources/static/assets/index-90068b6c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/resources/static/assets/index-97330b98.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/resources/static/assets/index-97330b98.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/resources/static/assets/react-35ef61ed.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/resources/static/assets/react-35ef61ed.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/main/resources/static/vite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../challenges-frontend/public/vite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/test/java/dev/bitman/microservice/multiplication/MultiplicationApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/test/java/dev/bitman/microservice/multiplication/MultiplicationApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/test/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttemptControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/test/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttemptControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/test/java/dev/bitman/microservice/multiplication/challenge/ChallengeGeneratorServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/test/java/dev/bitman/microservice/multiplication/challenge/ChallengeGeneratorServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-03/multiplication/src/test/java/dev/bitman/microservice/multiplication/challenge/ChallengeServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/challenges-frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../challenges-frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/challenges-frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../challenges-frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/challenges-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../challenges-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/challenges-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../challenges-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/challenges-frontend/public/vite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/resources/static/vite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/challenges-frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../challenges-frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/challenges-frontend/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../challenges-frontend/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/challenges-frontend/src/assets/react.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../challenges-frontend/src/assets/react.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/challenges-frontend/src/components/ChallengeComponet.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../challenges-frontend/src/components/ChallengeComponet.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/challenges-frontend/src/components/LastAttemptsComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../challenges-frontend/src/components/LastAttemptsComponent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/challenges-frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../challenges-frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/challenges-frontend/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../challenges-frontend/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/challenges-frontend/src/services/ApiClient.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../challenges-frontend/src/services/ApiClient.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/challenges-frontend/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../challenges-frontend/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/java/dev/bitman/microservice/multiplication/MultiplicationApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/Challenge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttempt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttemptController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttemptDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeGeneratorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeGeneratorServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/java/dev/bitman/microservice/multiplication/config/StaticResourceConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/java/dev/bitman/microservice/multiplication/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/java/dev/bitman/microservice/multiplication/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/resources/static/assets/index-90068b6c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/resources/static/assets/index-97330b98.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/resources/static/assets/react-35ef61ed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/main/resources/static/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/test/java/dev/bitman/microservice/multiplication/MultiplicationApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/test/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttemptControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/test/java/dev/bitman/microservice/multiplication/challenge/ChallengeGeneratorServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter-04/multiplication/src/test/java/dev/bitman/microservice/multiplication/challenge/ChallengeServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/MultiplicationApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/challenge/Challenge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttempt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttempt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttemptController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttemptController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttemptDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttemptRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttemptRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeGeneratorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeGeneratorServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/challenge/ChallengeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/config/JsonConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/config/JsonConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/config/StaticResourceConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/bitman/microservice/multiplication/user/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/java/dev/bitman/microservice/multiplication/user/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/index-90068b6c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/index-97330b98.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/react-35ef61ed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dev/bitman/microservice/multiplication/MultiplicationApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dev/bitman/microservice/multiplication/challenge/ChallengeAttemptControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dev/bitman/microservice/multiplication/challenge/ChallengeGeneratorServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dev/bitman/microservice/multiplication/challenge/ChallengeServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multiplication/src/test/java/dev/bitman/microservice/multiplication/challenge/ChallengeServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Oe6TbGMWtSKFaxG9o9L3zcvXdf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/N113604/personal/code/microservices-with-springboot-v2/chapter-05/multiplication",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MultiplicationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="multiplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.bitman.microservice.multiplication.MultiplicationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6359feaf-06bb-490f-9e6b-3588a6e6e872" name="Changes" comment="" />
+      <created>1681908708349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681908708349</updated>
+      <workItem from="1681908709729" duration="620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
