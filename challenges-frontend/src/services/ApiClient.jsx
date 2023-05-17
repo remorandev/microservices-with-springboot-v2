@@ -2,7 +2,7 @@ class ApiClient {
     static SERVER_URL = 'http://localhost:8080';
     static GET_CHALLENGE = '/challenges/random';
     static POST_RESULT = '/attempts';
-    static GET_ATTEMPS_BY_ALIAS= 'attempts?alias=';
+    static GET_ATTEMPS_BY_ALIAS= '/attempts?alias=';
 
     static async challenge() {
         try {
@@ -29,7 +29,6 @@ class ApiClient {
                     }
                 )
             });
-            console.log(reponse);
             return response;
         } catch (error) {
             throw error;
@@ -37,7 +36,8 @@ class ApiClient {
     }
 
     static async getAttempts(userAlias) {
-        return fetch(ApiClient.SERVER_URL + ApiClient.GET_ATTEMPS_BY_ALIAS + userAlias)
+        const response = await fetch(ApiClient.SERVER_URL + ApiClient.GET_ATTEMPS_BY_ALIAS + userAlias);
+        return response;
     }
 }
 
