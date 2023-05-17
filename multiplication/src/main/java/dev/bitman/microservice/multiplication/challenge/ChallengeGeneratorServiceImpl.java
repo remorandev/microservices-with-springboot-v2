@@ -6,8 +6,8 @@ import java.util.Random;
 
 @Service
 public class ChallengeGeneratorServiceImpl implements ChallengeGeneratorService {
-    private final static int MINIMUM_FACTOR = 11;
-    private final static int MAXIMUM_FACTOR = 100;
+    private final static int MINIMUM_FACTOR = 1;
+    private final static int MAXIMUM_FACTOR = 10;
 
     private final Random random;
 
